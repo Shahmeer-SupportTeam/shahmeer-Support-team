@@ -49,3 +49,6 @@ Feel free to reach out via WhatsApp or explore my repositories!
 
 ---
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahmeer-Support-team&show_icons=true&theme=dark)
+
