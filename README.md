@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I specialize in IT support, focusing on network ma
 ---
 
 ## 🚀 About Me
-- 💼 **Position**: IT Support Officer at **Nest Secure**
+- 💼 **Position**: IT Support Officer at **SpaceTech BPO**
 - 🛠️ **Skills**:  
   - PC & Network Maintenance  
   - Troubleshooting IT Issues  
