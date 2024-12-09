@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I specialize in IT support, focusing on network ma
 
 - 📍 **Location**: Pakistan  
 - 📞 **WhatsApp Contact**: [03192021038](tel:03192021038)  
-- 🌐 **Website**: (Add here if you have one)
+
 
 ---
 
